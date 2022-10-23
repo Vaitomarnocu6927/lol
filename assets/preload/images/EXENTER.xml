@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EXENTER.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Entrance0000" x="0" y="0" width="781" height="819" frameX="-124" frameY="-937" frameWidth="1047" frameHeight="1087"/>
+	
+</TextureAtlas>

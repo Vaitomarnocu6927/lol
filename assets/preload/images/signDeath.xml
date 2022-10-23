@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="signDeath.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dead Loop0000" x="0" y="0" width="641" height="585"/>
+	
+	<SubTexture name="BF Dead confirm0000" x="0" y="0" width="641" height="585" frameX="0" frameY="-47" frameWidth="635" frameHeight="603"/>
+	
+	<SubTexture name="BF dies0000" x="0" y="0" width="641" height="585" frameX="0" frameY="-26" frameWidth="897" frameHeight="556"/>
+	
+</TextureAtlas>
